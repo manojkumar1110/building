@@ -1,0 +1,153 @@
+.content1h{
+    color: black;
+    font-weight: 800;
+}
+.content1p{
+    color: black;
+    font-size: 17px;
+    padding-top: 10px;
+}
+.content1p2{
+    color: black;
+    font-size: 16px;
+}
+.content2h{
+    color: white;
+    font-weight: 700;
+}
+.content2p{
+    color: white;
+    font-size: 16px;
+    padding-top: 20px;
+}
+.content3h{
+    color: white;
+}
+.content3p{
+    color: white;
+}
+.content4h{
+    color: black;
+    font-weight: 600;
+}
+.content4p{
+    text-align: justify;
+    font-size: 15px;
+}
+.content5p{
+    text-align: justify;
+    font-size: 15px;
+}
+.content6{
+    background-color:#2B253C;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.content6:hover{
+    background-color: #FFD50D;
+}
+.content8{
+    background-color: white;
+    padding:15px;
+    border-radius: 20px;
+}
+.content9h{
+    color: #2B253C;
+    font-weight: 800;
+}
+.content9p{
+    color: black;
+    font-size: 15px;
+}
+.content9b{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #2B253C;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+}
+.content9b:hover{
+    background-color: #FFD50D;
+}
+.content11{
+    background-color: #2B253C;
+    padding:15px;
+    border-radius: 20px;
+}
+.content10h{
+    color: white;
+    font-weight: 800;
+}
+.content12{
+    color: white;
+    font-size: 15px;
+}
+.cbs{
+    color: white;
+    font-weight: 700;
+}
+.cbsh{
+    color: white;
+    font-weight: 600;
+}
+.cbsp{
+    color: white;
+    font-size: 16px;
+}
+.wwdh{
+    color: white;
+    font-weight: 700;
+}
+.wwdp{
+    color: white;
+    font-size: 18px;
+}
+.wwcontent1{
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+.ourStory{
+    margin-top: 150px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+.ourStoryh{
+    color: black;
+    font-weight: 700;
+}
+.ourStoryp{
+    color: black;
+    font-size: 16px;
+}
+.hed{
+    color: black;
+    font-weight: 700;
+}
+.hed1{
+    background-color:#F1C50E;
+    padding: 50px;
+    border-radius: 50%;
+    border-style: none;
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+}
+.cus{
+    color: white;
+    font-weight: 700;
+}
+label{
+    color: white;
+    padding-top: 30PX;
+}
